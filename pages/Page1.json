@@ -49,12 +49,52 @@
               "iconColor": "white",
               "isDisabled": false,
               "key": "1w3syy6rm2"
+            },
+            {
+              "widgetName": "CheckboxGroup1",
+              "displayName": "Checkbox Group",
+              "iconSVG": "/static/media/icon.ecb38479.svg",
+              "topRow": 33,
+              "bottomRow": 39,
+              "parentRowSpace": 10,
+              "type": "CHECKBOX_GROUP_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 17.0625,
+              "leftColumn": 6,
+              "options": [
+                {
+                  "label": "Blue",
+                  "value": "BLUE"
+                },
+                {
+                  "label": "Green",
+                  "value": "GREEN"
+                },
+                {
+                  "label": "Red",
+                  "value": "RED"
+                }
+              ],
+              "isDisabled": false,
+              "key": "wr1sro49sh",
+              "isRequired": false,
+              "rightColumn": 22,
+              "defaultSelectedValues": "BLUE",
+              "widgetId": "pwxkjwu6lh",
+              "isVisible": true,
+              "version": 2,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "isInline": true
             }
           ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
           "AudioRecorder1",
+          "CheckboxGroup1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
